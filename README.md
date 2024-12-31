@@ -4,7 +4,7 @@ This project aims to predict house value in California districts using over 20,0
 ## Project Overview:
 
 ### Data Collection and Processing:
-This project predicts the house value in over 20000 California districts. The dataset contains features such as house age, total rooms, number of bedrooms, population, median income and location coordinates. The data is processed using Pandas and Numpy before analysis. Additional features were added for clarity and to better capture anomalies that may affect prediction. The added features were room per household and bedroo per room. 
+This project predicts the house value in over 20000 California districts. The dataset contains features such as house age, total rooms, number of bedrooms, population, median income and location coordinates. The data is processed using Pandas and Numpy before analysis. Additional features were added for clarity and to better capture anomalies that may affect prediction. The added features were room per household and bedroom per room. 
 
 ### Data Visualization:
 For visualization purposes, tools like Matplotlib, Seaborn are used for histograms, scatter plots and correlation matrix.
